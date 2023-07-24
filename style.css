@@ -11,3 +11,7 @@
 .item {
     width: 30%;
 }
+
+.item:first-child {
+    order: 2;
+}
