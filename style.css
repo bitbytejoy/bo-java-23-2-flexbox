@@ -1,0 +1,13 @@
+/*
+1 Display
+2 Layout
+3 Gaps
+4 Alignment
+*/
+.container {
+    display: flex;
+}
+
+.item {
+    width: 30%;
+}
